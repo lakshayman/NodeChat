@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NodeChat/static/css/main.00cfa216.chunk.css",
+    "main.js": "/NodeChat/static/js/main.cc4fb3ff.chunk.js",
+    "main.js.map": "/NodeChat/static/js/main.cc4fb3ff.chunk.js.map",
+    "runtime-main.js": "/NodeChat/static/js/runtime-main.e40e374d.js",
+    "runtime-main.js.map": "/NodeChat/static/js/runtime-main.e40e374d.js.map",
+    "static/js/2.0b3e80b2.chunk.js": "/NodeChat/static/js/2.0b3e80b2.chunk.js",
+    "static/js/2.0b3e80b2.chunk.js.map": "/NodeChat/static/js/2.0b3e80b2.chunk.js.map",
+    "index.html": "/NodeChat/index.html",
+    "static/css/main.00cfa216.chunk.css.map": "/NodeChat/static/css/main.00cfa216.chunk.css.map",
+    "static/js/2.0b3e80b2.chunk.js.LICENSE.txt": "/NodeChat/static/js/2.0b3e80b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e40e374d.js",
+    "static/js/2.0b3e80b2.chunk.js",
+    "static/css/main.00cfa216.chunk.css",
+    "static/js/main.cc4fb3ff.chunk.js"
+  ]
+}
